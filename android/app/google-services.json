@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716899620693",
+    "project_id": "e-comer-bd3fd",
+    "storage_bucket": "e-comer-bd3fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716899620693:android:c18775c681f612fdae41dc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_e_comerce_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaOZAoWFEBaGO63yVf3usFMWX53BLpCKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
